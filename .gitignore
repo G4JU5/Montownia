@@ -1,0 +1,8 @@
+﻿projekt SO.txt
+Projekty_SO_2026-2027_wytyczne_v01.pdf
+.vs/
+build/
+bin/
+*.o
+*.out
+*.exe
